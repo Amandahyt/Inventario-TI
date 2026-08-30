@@ -48,6 +48,11 @@
                             <option value="B">Bloco B</option>
                             <option value="C">Bloco C</option>
                             <option value="D">Bloco D</option>
+                            <option value="E">Bloco E</option>
+                            <option value="F">Bloco F</option>
+                            <option value="G">Bloco G</option>
+                            <option value="H">Bloco H</option>
+
                         </select>
                         <div class="form-text">Escolha o bloco onde o laboratório está localizado.</div>
                     </div>
