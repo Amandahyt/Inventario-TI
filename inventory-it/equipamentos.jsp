@@ -26,7 +26,7 @@
         </div>
         <div class="table-responsive">
             <table class="table table-striped table-hover align-middle">
-                <thead class="table-light"><tr><th>ID</th><th>Número de série</th><th>Tipo</th><th>Laboratório</th></tr></thead>
+                <thead class="table-light"><tr><th>ID</th><th>Número de série</th><th>Tipo</th><th>Localização</th></tr></thead>
                 <tbody>
                     <c:forEach var="equipamento" items="${equipamentos}">
                         <tr>
