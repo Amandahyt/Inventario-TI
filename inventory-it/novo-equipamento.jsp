@@ -11,7 +11,7 @@
 <body class="bg-light">
 <nav class="navbar navbar-dark bg-primary shadow-sm">
     <div class="container">
-        <a class="navbar-brand fw-semibold" href="${pageContext.request.contextPath}/laboratorios">Inventory-IT</a>
+        <a class="navbar-brand fw-semibold" href="${pageContext.request.contextPath}/laboratorios">Inventário TI</a>
         <span class="navbar-text text-white-50">Cadastro de equipamentos</span>
     </div>
 </nav>
