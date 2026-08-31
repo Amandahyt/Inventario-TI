@@ -1,4 +1,4 @@
-# Inventory-IT
+# Inventário TI
 
 Projeto desenvolvido para a atividade prática de Java Web utilizando Servlets, JSP, JPA e Bootstrap.
 
