@@ -36,9 +36,10 @@ JSP → Servlet → DAO / JPA → Banco de dados
 
 ## Como executar
 
-1. Abra o projeto em uma IDE Java.
-2. Configure o Tomcat.
-3. Execute o projeto no servidor.
-4. Acesse a aplicação pelo navegador.
+1. Baixar a pasta "inventory-it-executavel
+2. Abra o projeto em uma IDE Java.
+3. Configure o Tomcat.
+4. Execute o projeto no servidor.
+5. Acesse a aplicação pelo navegador.
 
 Os dados são armazenados utilizando o banco H2 configurado no projeto.
