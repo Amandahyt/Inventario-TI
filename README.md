@@ -23,6 +23,17 @@ O sistema permite cadastrar laboratórios e equipamentos, mantendo cada equipame
 - Maven
 - Tomcat
 
+## Estrutura do projeto
+
+O projeto segue um fluxo simples:
+
+JSP → Servlet → DAO / JPA → Banco de dados
+
+- **JSP:** páginas e formulários
+- **Servlet:** recebe e controla as requisições
+- **DAO:** realiza o acesso aos dados
+- **JPA / Hibernate:** realiza a persistência no banco
+
 ## Como executar
 
 1. Abra o projeto em uma IDE Java.
